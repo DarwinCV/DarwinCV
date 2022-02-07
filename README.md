@@ -1,4 +1,4 @@
-![Darwin Cub (1)](https://user-images.githubusercontent.com/40300400/152816215-f54b3c7f-82f6-4c2a-8140-5dc1e78c28c9.png)
+![Darwin Cub (2)](https://user-images.githubusercontent.com/40300400/152826451-c2115a1a-3bcc-4da3-9957-42e6282b2c5a.png)
 
 <h1 align="center">Hi 👋, I'm Darwin</h1>
 <h3 align="center">A Data Science and Actuary from Quito, Ecuador</h3>
